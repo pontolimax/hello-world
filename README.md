@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+My first repository
+
+Hello world, I'm Pontolimax
